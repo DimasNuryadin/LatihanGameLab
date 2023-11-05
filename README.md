@@ -1,2 +1,3 @@
 # LatihanGameLab
-Repository baru dari pc lokal
+Repository baru dari PC lokal
+Belajar Reset dan Revert
